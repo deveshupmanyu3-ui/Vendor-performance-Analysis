@@ -1,0 +1,83 @@
+2026-01-31 00:12:50,102 - INFO - Ingested begin_inventory.csv
+2026-01-31 00:12:57,823 - INFO - Ingested end_inventory.csv
+2026-01-31 00:15:07,312 - INFO - Ingested purchases.csv
+2026-01-31 00:15:08,085 - INFO - Ingested purchase_prices.csv
+2026-02-07 07:43:28,029 - INFO - Ingesting begin_inventory.csv in db
+2026-02-07 07:43:34,618 - INFO - Ingesting end_inventory.csv in db
+2026-02-07 07:43:54,655 - INFO - Ingesting purchases.csv in db
+2026-02-07 07:45:50,720 - INFO - Ingesting purchase_prices.csv in db
+2026-02-07 07:46:40,755 - INFO - Ingesting sales.csv in db
+2026-02-07 07:58:37,868 - INFO - Ingesting vendor_invoice.csv in db
+2026-02-07 07:58:38,275 - INFO - --------------Ingestion Complete------------
+2026-02-07 07:58:38,276 - INFO - 
+Total Time Taken: 15.183833920955658 minutes
+2026-02-07 08:00:36,353 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 08:00:36,362 - WARNING - No such comm: 16e3026d-9c9a-42bf-9d25-d02e043c9e0e
+2026-02-07 08:00:36,363 - DEBUG - Current comms: []
+2026-02-07 08:13:30,442 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 08:13:30,447 - WARNING - No such comm: fd04afc9-26c1-481b-971d-92e8548dc01d
+2026-02-07 08:13:30,448 - DEBUG - Current comms: []
+2026-02-07 08:33:20,638 - INFO - Ingested begin_inventory.csv
+2026-02-07 08:33:29,085 - INFO - Ingested end_inventory.csv
+2026-02-07 08:35:53,183 - INFO - Ingested purchases.csv
+2026-02-07 08:35:53,943 - INFO - Ingested purchase_prices.csv
+2026-02-07 08:43:32,970 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 08:43:32,975 - WARNING - No such comm: cbae0f74-8441-4db3-b8fa-6b18fc81e207
+2026-02-07 08:43:32,976 - DEBUG - Current comms: []
+2026-02-07 08:45:20,245 - INFO - Ingesting begin_inventory.csv in db
+2026-02-07 08:45:26,873 - INFO - Ingesting end_inventory.csv in db
+2026-02-07 08:45:46,954 - INFO - Ingesting purchases.csv in db
+2026-02-07 08:47:45,906 - INFO - Ingesting purchase_prices.csv in db
+2026-02-07 08:48:35,771 - INFO - Ingesting sales.csv in db
+2026-02-07 08:51:10,745 - INFO - Ingesting begin_inventory.csv in db
+2026-02-07 08:51:18,047 - INFO - Ingesting end_inventory.csv in db
+2026-02-07 08:51:38,398 - INFO - Ingesting purchases.csv in db
+2026-02-07 08:53:43,511 - INFO - Ingesting purchase_prices.csv in db
+2026-02-07 08:54:32,723 - INFO - Ingesting sales.csv in db
+2026-02-07 08:55:11,868 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 08:55:11,885 - WARNING - No such comm: 64d0ef45-b376-46d5-b751-91f89ac1593d
+2026-02-07 08:55:11,886 - DEBUG - Current comms: []
+2026-02-07 09:03:05,823 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 09:03:05,847 - WARNING - No such comm: 2797bbe4-3cc2-4d53-bbf2-283c398fcab7
+2026-02-07 09:03:05,848 - DEBUG - Current comms: []
+2026-02-07 09:05:37,662 - INFO - Ingesting begin_inventory.csv in db
+2026-02-07 09:05:45,688 - INFO - Ingesting end_inventory.csv in db
+2026-02-07 09:06:05,311 - INFO - Ingesting purchases.csv in db
+2026-02-07 09:08:02,973 - INFO - Ingesting purchase_prices.csv in db
+2026-02-07 09:08:52,509 - INFO - Ingesting sales.csv in db
+2026-02-07 09:11:12,828 - INFO - Ingesting begin_inventory.csv in db
+2026-02-07 09:11:20,034 - INFO - Ingesting end_inventory.csv in db
+2026-02-07 09:11:40,575 - INFO - Ingesting purchases.csv in db
+2026-02-07 09:18:38,544 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 09:18:38,550 - WARNING - No such comm: 66410d88-f85a-4316-ad74-39636fa156c1
+2026-02-07 09:18:38,550 - DEBUG - Current comms: []
+2026-02-07 09:29:06,255 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 09:29:06,262 - WARNING - No such comm: bf33cd98-89d4-4bc9-8ac1-97a16522fa3c
+2026-02-07 09:29:06,262 - DEBUG - Current comms: []
+2026-02-07 09:29:09,419 - INFO - Ingesting begin_inventory.csv in db
+2026-02-07 09:29:16,400 - INFO - Ingesting end_inventory.csv in db
+2026-02-07 09:29:36,061 - INFO - Ingesting purchases.csv in db
+2026-02-07 09:31:25,605 - INFO - Ingesting purchase_prices.csv in db
+2026-02-07 09:32:15,964 - INFO - Ingesting sales.csv in db
+2026-02-07 09:44:17,152 - INFO - Ingesting vendor_invoice.csv in db
+2026-02-07 09:44:17,529 - INFO - --------------Ingestion Complete------------
+2026-02-07 09:44:17,530 - INFO - 
+Total Time Taken: 15.152627551555634 minutes
+2026-02-07 09:44:17,639 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 09:44:17,648 - WARNING - No such comm: e17aae63-2d3f-49e9-8d66-c32974a65c0e
+2026-02-07 09:44:17,648 - DEBUG - Current comms: []
+2026-02-07 09:51:23,304 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 09:51:23,312 - WARNING - No such comm: 96fa296c-4c91-4e3e-a5cd-f4d18f3dd7a7
+2026-02-07 09:51:23,313 - DEBUG - Current comms: []
+2026-02-07 09:59:42,575 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 09:59:42,577 - WARNING - No such comm: a941bb58-74c7-4a4d-a20e-19c9474c444a
+2026-02-07 09:59:42,577 - DEBUG - Current comms: []
+2026-02-07 09:59:43,856 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 09:59:43,858 - WARNING - No such comm: 5efe4cca-ced9-4e32-ac58-bcc8d78bb2d6
+2026-02-07 09:59:43,858 - DEBUG - Current comms: []
+2026-02-07 09:59:45,256 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 09:59:45,258 - WARNING - No such comm: b3c282a8-64df-44da-8e67-2ebf3d3c257c
+2026-02-07 09:59:45,258 - DEBUG - Current comms: []
+2026-02-07 10:48:20,406 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-07 10:48:20,413 - WARNING - No such comm: 35f3eadb-ee38-450c-918f-81ffec94b15c
+2026-02-07 10:48:20,413 - DEBUG - Current comms: []
