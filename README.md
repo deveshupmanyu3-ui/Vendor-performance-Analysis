@@ -45,6 +45,3 @@ This project focuses on analyzing vendor performance based on sales data. It inv
 - Vendor performance summary CSV
 - Power BI Dashboard
 - Final insights PDF report
-
-## 📬 Contact
-For queries or collaboration, feel free to connect via [LinkedIn](www.linkedin.com/in/devesh-upmanyu-).
